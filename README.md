@@ -36,5 +36,5 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/upwork-job-trends-analysis.git
+   git clone https://github.com/Grieffin09/upwork-job-trends-analysis.git
    cd upwork-job-trends-analysis
